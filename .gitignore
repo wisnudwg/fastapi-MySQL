@@ -1,6 +1,6 @@
 # misc
-/__pycache__
-/venv
+__pycache__
+venv
 
 # local env files
 .env
